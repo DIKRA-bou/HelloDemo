@@ -4,3 +4,10 @@ public class tp1 {
 		System.out.println("heloo world");
 	}
 }
+
+
+
+
+
+
+
