@@ -1,3 +1,4 @@
+package dz.biskra.info.ex1;
 import java.util.ArrayList;
 
 public class Departement {
